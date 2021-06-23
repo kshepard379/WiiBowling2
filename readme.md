@@ -1,4 +1,4 @@
-# Wii Bowling 2 - Final Project (Computer Grapghics)
+# Wii Bowling 2 - Final Project (Computer Graphics)
 
 ## Description
 Wii Bowling 2 is a mock-up rendition of the classic Wii Sports Bowling. Giving the player control over ball power (to an extent), angle, spin (and spin power), Wii Bowling 2 is a semi-realistic interpretation of a bowling alley with resettable pins and numerical scoring (i.e. not real bowling scoring). 
